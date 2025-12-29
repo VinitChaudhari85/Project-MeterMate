@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "695831354201",
+    "project_id": "tests-ecd80",
+    "storage_bucket": "tests-ecd80.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695831354201:android:8443e444685f9aba4a8a48",
+        "android_client_info": {
+          "package_name": "com.example.tests"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudiVCHWc_BlCG8bQKkguPg43VCDKAYjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
